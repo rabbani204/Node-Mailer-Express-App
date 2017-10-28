@@ -1,1 +1,2 @@
 # NodeMailerExpressApp
+View Engine: Jade
